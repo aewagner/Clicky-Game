@@ -1,6 +1,6 @@
 # Clicky Game
 
- https://aewagner.github.io/HW-Clicky-Game/
+ https://aewagner.github.io/Clicky-Game/
 
 ## Click the images to shuffle up my favorite cartoon characters!
  - Try to click on all 12 images without clicking on the same image twice.

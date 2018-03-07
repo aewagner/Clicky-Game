@@ -13,7 +13,7 @@ class App extends Component {
     imagesArr: images,
     idArr: [],
     score: 0,
-    text: "",
+    text: "Try to click on all 12 images without clicking the same image twice",
     highestScore: 0,
     gameOver: false
   };
